@@ -18,4 +18,3 @@ func main() {
 	//float (flaot64/float32) - decimal
 	fmt.Printf("Type: %T - Value: %v\n", 1.233, 1.233)
 }
-
