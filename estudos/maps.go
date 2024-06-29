@@ -12,6 +12,10 @@ func main() {
 
 	anoNasc := map[string]int{
 		"Alex": 1994,
-		"Alice": 1996
+		"Alice": 1996,
 	}
+	fmt.Println(anoNasc)
+
+	anoNasc["Joao"] = 2020
+	fmt.Println(anoNasc)
 }
