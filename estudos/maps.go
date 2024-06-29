@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	//Estrutura chave - valor
 	idade := map[string]int{}
 	idade["Alex"] = 29
 	idade["Alice"] = 27
