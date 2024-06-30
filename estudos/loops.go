@@ -25,7 +25,7 @@ func main() {
 	}
 	fmt.Println(sum)
 	//fmt.Println("Numero:", numero)
-	//da erro pq esta fora do FOR
+	//da erro pq esta fora do escopo do FOR
 
 	// for {
 	// 	fmt.Println("Loop infinito ate vc dar o comando ctrl + c para sair")
